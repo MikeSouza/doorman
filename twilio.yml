@@ -1,0 +1,11 @@
+---
+
+development:
+  account_sid: 
+  auth_token: 
+  application_sid: 
+
+production:
+  account_sid: 
+  auth_token: 
+  application_sid: 

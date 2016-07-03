@@ -1,0 +1,16 @@
+---
+
+greeting:
+  name: 'Greeting Name'
+  custom: 
+
+users:
+  default:
+    name: 'Full Name'
+    is_admin: true
+
+phone_numbers:
+  '+1234567890': 'default'
+
+passcodes:
+  '1234': 'default'

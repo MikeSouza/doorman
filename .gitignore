@@ -1,0 +1,5 @@
+*.lock
+**/*.mp3
+log/
+tmp/
+.well-known
